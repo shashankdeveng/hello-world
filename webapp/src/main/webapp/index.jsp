@@ -1,7 +1,7 @@
 <form>
 <div class="container">
 <h1>Register Here</h1>
-<p>Hello Everyone...!!!Please fill in the details.</p>
+<p>Hello Students...!!!Please fill in the details.</p>
 <hr>
 <label for="email"><b>Enter Email</b></label>
 <input type="text" placeholder="Enter Email" name="email">
