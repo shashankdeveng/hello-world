@@ -1,6 +1,6 @@
 <form>
 <div class="container">
-<h1>Register Here</h1>
+<h1>Register Here to join the classes</h1>
 <p>Welcome all...!!! please fill out the details for the registration.</p>
 <hr>
 <label for="email"><b>Enter Email</b></label>
